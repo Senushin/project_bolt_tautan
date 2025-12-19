@@ -1,8 +1,17 @@
 # Task: Implement Custom Modals & Flows
-- [/] **Publish to GitHub** <!-- id: 59 -->
-    - [ ] Initialize Git repository <!-- id: 60 -->
-    - [ ] Commit alignment and auth page changes <!-- id: 61 -->
-    - [ ] Push to new remote repository <!-- id: 62 -->
+- [/] **Polish Auth Page to match Screenshot** <!-- id: 62 -->
+    - [ ] Simplify background (remove noise/excessive blur) <!-- id: 63 -->
+    - [ ] Adjust layout spacing and alignment <!-- id: 64 -->
+    - [ ] Match input label and field styling <!-- id: 65 -->
+
+- [x] **Update Social Preview (Open Graph)** <!-- id: 63 -->
+    - [x] Update `index.html` title and meta tags <!-- id: 64 -->
+    - [x] Replace default OG image with custom screenshot <!-- id: 65 -->
+
+- [x] **Publish to GitHub** <!-- id: 59 -->
+    - [x] Initialize Git repository <!-- id: 60 -->
+    - [x] Commit alignment and auth page changes <!-- id: 61 -->
+    - [x] Push to new remote repository <!-- id: 62 -->
 
 - [x] **Update Auth Page Icon** <!-- id: 56 -->
     - [x] Replace Lock icon with `bars_head.png` <!-- id: 57 -->
